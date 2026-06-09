@@ -298,8 +298,8 @@ MIT License
 ---
 
 <div align="center">
-
 **特别感谢小米❤️-长春师范大学罗贵峰**
+</div>
+<div align="center">
 **Special thanks to Xiaomi ❤️ - Luo Guifeng, Changchun Normal University**
-
 </div>
