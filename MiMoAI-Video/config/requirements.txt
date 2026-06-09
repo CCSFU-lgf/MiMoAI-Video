@@ -1,0 +1,17 @@
+# MiMo ASR - 视频字幕与自动剪辑工具
+# 依赖列表
+
+# Web UI
+streamlit>=1.28.0
+
+# MiMo API (OpenAI 兼容)
+openai>=1.0.0
+
+# TOML 配置文件解析 (Python 3.11+ 内置，3.10 需要安装)
+tomli>=2.0.0; python_version < "3.11"
+
+# 视频处理依赖
+# FFmpeg 需要单独安装:
+#   Windows: 下载 https://ffmpeg.org/download.html 并添加到 PATH
+#   MacOS: brew install ffmpeg
+#   Linux: sudo apt install ffmpeg
