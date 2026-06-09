@@ -299,6 +299,7 @@ MIT License
 
 <div align="center">
 
-**Made with ❤️ by MiMo ASR**
+**特别感谢小米❤️-长春师范大学罗贵峰**
+**Special thanks to Xiaomi ❤️ - Luo Guifeng, Changchun Normal University**
 
 </div>
