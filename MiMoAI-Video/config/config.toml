@@ -1,7 +1,16 @@
 # MiMo ASR 配置文件
 
 # MiMo API Key（必填）
-api_key = "tp-cmjgraiydwxvhxyyokffzxjl7yxnmsjvvo7u1h1x3qajvk0t"
+api_key = "你的APIKey"
 
-# MiMo API 地址
-base_url = "https://token-plan-cn.xiaomimimo.com/v1"
+# MiMo API 地址:
+#OpenAI API:
+base_url = "https://api.xiaomimimo.com/v1"
+#Anthropic API:
+#base_url = "https://api.xiaomimimo.com/v1"
+
+#Token Plan-URL:
+#OpenAI API:
+#base_url = "https://token-plan-cn.xiaomimimo.com/v1"
+#Anthropic API:
+#base_url = "https://token-plan-cn.xiaomimimo.com/anthropic"
